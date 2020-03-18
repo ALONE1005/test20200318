@@ -22,6 +22,9 @@ public class User {
 
     private String phone;
 
+
     private String ggender;
+
+    private Integer age;
 
 }
