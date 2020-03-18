@@ -13,4 +13,6 @@ package com.wckto.github.model;
 public class User {
 
     private String id;
+
+    private String name;
 }
